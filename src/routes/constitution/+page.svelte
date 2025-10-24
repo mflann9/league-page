@@ -2,14 +2,16 @@
   export let lastUpdated = "September 3, 2025";
 </script>
 
-<main class="min-h-screen bg-gradient-to-b from-gray-900 to-gray-950 text-gray-200 font-sans px-6 md:px-24 py-12">
-  <div class="max-w-3xl mx-auto bg-gray-800/50 backdrop-blur-sm rounded-2xl shadow-lg p-8 md:p-12 border border-gray-700">
-    <h1 class="text-xl sm:text-2xl md:text-3xl font-bold text-center mb-8 text-indigo-300 tracking-wide">
+<main class="bg-gradient-to-b from-gray-900 to-gray-950 text-gray-200 font-sans min-h-screen py-12">
+  <div
+    class="mx-auto max-w-3xl px-6 sm:px-10 md:px-16 lg:px-20 bg-gray-800/50 backdrop-blur-sm rounded-2xl shadow-lg border border-gray-700 py-10"
+  >
+    <h1 class="text-lg sm:text-xl font-bold text-center mb-8 text-indigo-300 tracking-wide leading-snug">
       The Stone Toad Steve Austin Memorial Dynasty League Constitution
     </h1>
 
     <section class="mb-10">
-      <h2 class="text-lg font-semibold text-indigo-400 mb-3">Roster Format</h2>
+      <h2 class="text-base font-semibold text-indigo-400 mb-3">Roster Format</h2>
       <ul class="list-disc pl-6 space-y-1">
         <li>1 QB</li>
         <li>2 RB</li>
@@ -35,7 +37,7 @@
     <hr class="border-gray-700 my-8" />
 
     <section class="mb-10">
-      <h2 class="text-lg font-semibold text-indigo-400 mb-3">Scoring</h2>
+      <h2 class="text-base font-semibold text-indigo-400 mb-3">Scoring</h2>
       <p>Standard ESPN Scoring with the following modifications:</p>
       <ul class="list-disc pl-6 mt-3 space-y-1">
         <li>0.5 PPR</li>
@@ -50,7 +52,7 @@
     <hr class="border-gray-700 my-8" />
 
     <section class="mb-10">
-      <h2 class="text-lg font-semibold text-indigo-400 mb-3">Trades</h2>
+      <h2 class="text-base font-semibold text-indigo-400 mb-3">Trades</h2>
       <ul class="list-disc pl-6 space-y-1">
         <li>Draft Pick Trades enabled for startup draft</li>
         <li>Trade deadline: Week 12 (re-opens post-NFL postseason)</li>
@@ -62,7 +64,7 @@
     <hr class="border-gray-700 my-8" />
 
     <section class="mb-10">
-      <h2 class="text-lg font-semibold text-indigo-400 mb-3">Waivers</h2>
+      <h2 class="text-base font-semibold text-indigo-400 mb-3">Waivers</h2>
       <ul class="list-disc pl-6 space-y-1">
         <li>FAAB waivers with $1,000 yearly budget</li>
         <li>Renews after rookie draft</li>
@@ -75,7 +77,7 @@
     <hr class="border-gray-700 my-8" />
 
     <section class="mb-10">
-      <h2 class="text-lg font-semibold text-indigo-400 mb-3">Rookie Drafts</h2>
+      <h2 class="text-base font-semibold text-indigo-400 mb-3">Rookie Drafts</h2>
       <ul class="list-disc pl-6 space-y-1">
         <li>4 linear rounds</li>
         <li>Rosters/taxi-squad must have space prior to draft</li>
@@ -89,7 +91,7 @@
     <hr class="border-gray-700 my-8" />
 
     <section class="mb-10">
-      <h2 class="text-lg font-semibold text-indigo-400 mb-3">League Divisions and Matchups</h2>
+      <h2 class="text-base font-semibold text-indigo-400 mb-3">League Divisions and Matchups</h2>
       <ul class="list-disc pl-6 space-y-1">
         <li>3 divisions of 4 teams</li>
         <li>Teams play divisional opponents twice per season</li>
@@ -100,7 +102,7 @@
     <hr class="border-gray-700 my-8" />
 
     <section class="mb-10">
-      <h2 class="text-lg font-semibold text-indigo-400 mb-3">Playoffs and Toilet Bowl</h2>
+      <h2 class="text-base font-semibold text-indigo-400 mb-3">Playoffs and Toilet Bowl</h2>
       <ul class="list-disc pl-6 space-y-1">
         <li>Top 2 teams per division make playoffs</li>
         <li>Remaining teams compete in toilet bowl</li>
@@ -114,7 +116,7 @@
     <hr class="border-gray-700 my-8" />
 
     <section class="mb-10">
-      <h2 class="text-lg font-semibold text-indigo-400 mb-3">Rewards</h2>
+      <h2 class="text-base font-semibold text-indigo-400 mb-3">Rewards</h2>
       <p>3 years of league dues collected upfront to encourage long-term investment.</p>
       <ul class="list-disc pl-6 mt-3 space-y-1">
         <li>50% to 1st place</li>
@@ -135,7 +137,7 @@
     <hr class="border-gray-700 my-8" />
 
     <section class="mb-10">
-      <h2 class="text-lg font-semibold text-indigo-400 mb-3">Punishments</h2>
+      <h2 class="text-base font-semibold text-indigo-400 mb-3">Punishments</h2>
       <p>
         As a dynasty league, long-term rebuilds and youthful roster approaches are valid. However, teams must remain active and competitive.
       </p>
@@ -143,7 +145,7 @@
         <li>Last place (loser’s bracket loser) must pay an additional $50 buy-in to the champion.</li>
       </ul>
       <p class="mt-4 italic text-pink-400 transition duration-300 hover:text-pink-300">
-        ** I can tickle anyone in the league at any time with or without cause.<br>
+        ** I can tickle anyone in the league at any time with or without cause.<br />
         ** I am allowed to kill people.
       </p>
     </section>
@@ -152,7 +154,7 @@
 
     <footer class="text-center mt-12 text-gray-400">
       <p>This constitution is official and current as of {lastUpdated}.</p>
-      <h3 class="text-base mt-4 font-semibold text-indigo-400">Updates</h3>
+      <h3 class="text-sm mt-4 font-semibold text-indigo-400">Updates</h3>
       <p>xxxxxx</p>
     </footer>
   </div>
