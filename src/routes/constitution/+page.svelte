@@ -4,10 +4,10 @@
 </script>
 
 <main class="p-8 text-gray-200 bg-gray-900 min-h-screen font-sans leading-relaxed">
-  <h1 class="text-4xl font-bold mb-6 text-center">The Stone Toad Steve Austin Memorial Dynasty League Constitution</h1>
+  <h1 class="text-3xl font-bold mb-6 text-center">The Stone Toad Steve Austin Memorial Dynasty League Constitution</h1>
 
   <section class="mb-8">
-    <h2 class="text-2xl font-semibold mb-2">Roster Format</h2>
+    <h2 class="text-xl font-semibold mb-2">Roster Format</h2>
     <ul class="list-disc pl-6">
       <li>1 QB</li>
       <li>2 RB</li>
@@ -29,7 +29,7 @@
   </section>
 
   <section class="mb-8">
-    <h2 class="text-2xl font-semibold mb-2">Scoring</h2>
+    <h2 class="text-xl font-semibold mb-2">Scoring</h2>
     <p>Standard ESPN Scoring with the following modifications:</p>
     <ul class="list-disc pl-6 mt-2">
       <li>0.5 PPR</li>
@@ -42,7 +42,7 @@
   </section>
 
   <section class="mb-8">
-    <h2 class="text-2xl font-semibold mb-2">Trades</h2>
+    <h2 class="text-xl font-semibold mb-2">Trades</h2>
     <ul class="list-disc pl-6">
       <li>Draft Pick Trades enabled for startup draft</li>
       <li>Trade deadline: Week 12 (re-opens post-NFL postseason)</li>
@@ -52,7 +52,7 @@
   </section>
 
   <section class="mb-8">
-    <h2 class="text-2xl font-semibold mb-2">Waivers</h2>
+    <h2 class="text-xl font-semibold mb-2">Waivers</h2>
     <ul class="list-disc pl-6">
       <li>FAAB waivers with $1,000 yearly budget</li>
       <li>Renews after rookie draft</li>
@@ -63,7 +63,7 @@
   </section>
 
   <section class="mb-8">
-    <h2 class="text-2xl font-semibold mb-2">Rookie Drafts</h2>
+    <h2 class="text-xl font-semibold mb-2">Rookie Drafts</h2>
     <ul class="list-disc pl-6">
       <li>4 linear rounds</li>
       <li>Rosters/taxi-squad must have space prior to draft</li>
@@ -75,7 +75,7 @@
   </section>
 
   <section class="mb-8">
-    <h2 class="text-2xl font-semibold mb-2">League Divisions and Matchups</h2>
+    <h2 class="text-xl font-semibold mb-2">League Divisions and Matchups</h2>
     <ul class="list-disc pl-6">
       <li>3 divisions of 4 teams</li>
       <li>Teams play divisional opponents twice per season</li>
@@ -84,7 +84,7 @@
   </section>
 
   <section class="mb-8">
-    <h2 class="text-2xl font-semibold mb-2">Playoffs and Toilet Bowl</h2>
+    <h2 class="text-xl font-semibold mb-2">Playoffs and Toilet Bowl</h2>
     <ul class="list-disc pl-6">
       <li>Top 2 teams per division make playoffs</li>
       <li>Remaining teams compete in toilet bowl</li>
@@ -96,7 +96,7 @@
   </section>
 
   <section class="mb-8">
-    <h2 class="text-2xl font-semibold mb-2">Rewards</h2>
+    <h2 class="text-xl font-semibold mb-2">Rewards</h2>
     <p>3 years of league dues collected upfront to encourage long-term investment.</p>
     <ul class="list-disc pl-6 mt-2">
       <li>50% to 1st place</li>
@@ -115,7 +115,7 @@
   </section>
 
   <section class="mb-8">
-    <h2 class="text-2xl font-semibold mb-2">Punishments</h2>
+    <h2 class="text-xl font-semibold mb-2">Punishments</h2>
     <p>
       As a dynasty league, long-term rebuilds and youthful roster approaches are valid. However, teams must remain active and competitive.
     </p>
@@ -130,7 +130,7 @@
 
   <footer class="text-center mt-12 text-gray-400">
     <p>This constitution is official and current as of {lastUpdated}.</p>
-    <h3 class="text-lg mt-4 font-semibold">Updates</h3>
+    <h3 class="text-base mt-4 font-semibold">Updates</h3>
     <p>xxxxxx</p>
   </footer>
 </main>
