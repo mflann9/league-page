@@ -7,9 +7,10 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Welcome to The Stone Toad Dynasty League, affectionately known as The STD League and formerly known as Rape Dungeon League before the libs took comedy away from us. Established in 2025, the league was formed of like-minded and competitive fantasy players with various connections to House Flannigan</p>
-  <p>I don't know what else to write here..</p>
-  <p>This is the third paragraph.</p>
+  <p>Welcome to The Stone Toad Dynasty League, affectionately known as The STD League and formerly known as Rape Dungeon League before the libs took comedy away from us. Established in 2025, the league was formed of like-minded and competitive fantasy players with various connections to House Flannigan.</p>
+  <p>This webpage serves as a repository of all league stats and records that will accumulate over the years. My coding knowledge is basically zero and this was all made possible by some dweeb on reddit, but I'm hoping I can figure out how to had some more stats or features down the line. If you've got any ideas, let me know. </p>
+  <p>So enjoy poking around here, all of the stats are pulled from the Sleeper API and everything should be totally accurate, outside of the playoff bracket page. That page may not be accurate until playoffs begin based on our H2H tiebreakers and division format.</p>
+  <p>Cheers!</p>
   `;
 
 /*   STEP 3   */
